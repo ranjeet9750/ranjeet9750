@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet9750&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet9750" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranjeet9750](https://github.com/ranjeet9750)
 
